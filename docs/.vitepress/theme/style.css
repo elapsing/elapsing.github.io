@@ -89,3 +89,8 @@
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
 
+
+/* 使左侧导航栏宽度增加 */
+:root {
+  --vp-sidebar-width: 340px;
+}
