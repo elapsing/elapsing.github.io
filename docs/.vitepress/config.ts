@@ -16,7 +16,8 @@ export default defineConfig({
         text: 'MIMO-NOMA',
         items: [
           { text: 'Single effective antenna', link: '/Single effective antenna' },
-          { text: 'TDMA and ZFB schemes', link: '/TDMA and ZFB schemes' }
+          { text: 'TDMA and ZFB schemes', link: '/TDMA and ZFB schemes' },
+          { text: 'Notations', link: '/Notations' }
         ]
       }
     ],

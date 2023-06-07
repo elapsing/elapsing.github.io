@@ -7,14 +7,14 @@
 
 ## Education
 <p style="text-align:left;"><b>M.S. student in Telecommunication</b><span style="float:right;">Sep. 2021 – Jun. 2024 (Exp.)</span></p>	
-  - ***Advised by: Prof. Jiaheng Wang***
+***Advised by: Prof. Jiaheng Wang***
+
   - National Mobile Communications Research Lab, Southeast University, China  
   - Score: 92.56/100 | Normalized Score: 85.22/100 | Ranking: 2/120 (Top 2%) 
   - Research Interests: Non-orthogonal Multiple Access & Finite Blocklength Transmission
 
 <p style="text-align:left;"><b>B.E. in Information Engineering</b><span style="float:right;"> Sep. 2017 – Jun. 2021 </span></p>	
   - Score: 92.56/100 | Normalized Score: 85.22/100 | Ranking: 2/120 (Top 2%) 
-  - Research Interests: Non-orthogonal Multiple Access & Finite Blocklength Transmission
 
 ## Publication and Patent
 <p style="text-align:left;"><b>Max-Min Fairness for Uplink NOMA Systems with Finite Blocklength (Submitted)</b><span style="float:right;">2023</span></p>	
@@ -75,7 +75,7 @@ Graduate Student Union
 Association of Science and Technology
 
 ## Honors and Awards
-<p style="text-align:left;">Post-graduate First-Class Academic Scholarship (for consecutive two years, Top 10%)<span style="float:right;">2021 – 2022</span></p>
+<p style="text-align:left;">Post-graduate First-Class Academic Scholarship (2 yrs, Top 10%)<span style="float:right;">2021 – 2022</span></p>
 
 <p style="text-align:left;">Outstanding Student Cadre Model (Top 1%)<span style="float:right;">Fall 2022 </span></p>
 
