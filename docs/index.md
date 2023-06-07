@@ -10,14 +10,14 @@ hero:
       # 首页右边的图片
       src: /avatar.png
       # 图片的描述
-      alt: avatar
+      alt: VitePress
   actions:
     - theme: brand
-      text: Home Page
-      link: /markdown-examples
-    - theme: alt
       text: Notes
-      link: /api-examples
+      link: /markdown-examples
+    # - theme: alt
+    #   text: Notes
+    #   link: /api-examples
 
 features:
   - title: Enthusiastic
