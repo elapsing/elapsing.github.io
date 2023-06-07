@@ -109,7 +109,8 @@
 }
 
 
-/* 使左侧导航栏宽度增加
+
 :root {
-  --vp-sidebar-width: 340px;
-} */
+  --vp-sidebar-width: 250px;
+  min-width: 400px;
+} 
