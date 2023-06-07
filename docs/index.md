@@ -8,13 +8,13 @@ hero:
 #  tagline: My great project tagline
   image:
       # 首页右边的图片
-      src: /avatar.png
+      src: /avatar1.png
       # 图片的描述
-      alt: VitePress
+      alt: avatar1
   actions:
     - theme: brand
       text: Notes
-      link: /markdown-examples
+      link: /Single effective antenna
     # - theme: alt
     #   text: Notes
     #   link: /api-examples
