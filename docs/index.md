@@ -64,7 +64,7 @@ Southeast University | Advised by Prof. Yubo Song
 
 Second Place (Top 1‱), National First Prize
 
-**Contest topic: Low-complexity calculation and storage modeling of massive correlated matrices**
+***Contest topic: Low-complexity calculation and storage modeling of massive correlated matrices***
 
 - Derived a novel scheme of matrix partitioning based on substituted adjacent right singular matrices in SVD to avoid high-order matrix inversion and further designed a successive over relaxation (SOR)-based algorithm
 - Formed a perfect complexity evaluation system by supplementing the unit complexity of complex number operations and matrix operations, achieving standardization and precision
