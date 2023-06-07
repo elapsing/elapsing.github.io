@@ -112,5 +112,5 @@
 
 :root {
   --vp-sidebar-width: 250px;
-  min-width: 400px;
+  min-width: fit-content;
 } 
