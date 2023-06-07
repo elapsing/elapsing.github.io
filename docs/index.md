@@ -7,7 +7,8 @@
 
 ## Education
 <p style="text-align:left;"><b>M.S. student in Telecommunication</b><span style="float:right;">Sep. 2021 – Jun. 2024 (Exp.)</span></p>	
-**Advised by: Prof. Jiaheng Wang**
+
+***Advised by: Prof. Jiaheng Wang***
 
   - National Mobile Communications Research Lab, Southeast University, China  
   - Score: 92.56/100 | Normalized Score: 85.22/100 | Ranking: 2/120 (Top 2%) 
