@@ -16,6 +16,7 @@
 
 <p style="text-align:left;"><b>B.E. in Information Engineering</b><span style="float:right;"> Sep. 2017 – Jun. 2021 </span></p>	
 
+  - Southeast University, China  
   - Score: 92.56/100 | Normalized Score: 85.22/100 | Ranking: 2/120 (Top 2%) 
 
 ## Publication and Patent

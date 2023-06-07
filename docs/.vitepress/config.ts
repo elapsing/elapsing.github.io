@@ -107,7 +107,7 @@ export default defineConfig({
       {
         text: 'MIMO-NOMA',
         items: [
-          { text: 'Single effective antenna', link: '/Single effective antenna' },
+          { text: 'Single Effective Antenna', link: '/Single Effective Antenna' },
           { text: 'TDMA and ZFB schemes', link: '/TDMA and ZFB schemes' }
         ]
       },
