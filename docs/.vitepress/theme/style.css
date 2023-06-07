@@ -60,14 +60,14 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    var(--vp-c-brand-dark) 30%,
+    var(--vp-c-brand) ,
     var(--vp-c-brand-light)
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    var(--vp-c-brand-dark) 50%,
-    var(--vp-c-brand-light) 50%
+    var(--vp-c-brand),
+    var(--vp-c-brand-light)
   );
   --vp-home-hero-image-filter: blur(40px);
 }
@@ -109,7 +109,7 @@
 }
 
 
-/* 使左侧导航栏宽度增加 */
+/* 使左侧导航栏宽度增加
 :root {
   --vp-sidebar-width: 340px;
-}
+} */
