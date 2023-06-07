@@ -9,12 +9,14 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' }
     ],
+    i18nRouting: true,
 
     sidebar: [
       {
-        text: 'myBlog',
+        text: 'MIMO-NOMA',
         items: [
-          { text: 'Single effective antenna', link: '/Single effective antenna' }
+          { text: 'Single effective antenna', link: '/Single effective antenna' },
+          { text: 'TDMA and ZFB schemes', link: '/TDMA and ZFB schemes' }
         ]
       }
     ],

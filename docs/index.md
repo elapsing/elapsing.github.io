@@ -4,22 +4,27 @@ layout: home
 
 hero:
   name: "Yiyang Zhang"
-  text: "A Personal Blog"
-  tagline: My great project tagline
+  text: "Time passes by, footsteps never stop"
+#  tagline: My great project tagline
+  image:
+      # 首页右边的图片
+      src: /avatar.png
+      # 图片的描述
+      alt: avatar
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Home Page
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Notes
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Enthusiastic
+    details: interact
+  - title: Industrious
+    details: work hard, work on
+  - title: Optimistic
+    details: love music, love sports
 ---
 
