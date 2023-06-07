@@ -109,92 +109,38 @@
 }
 
 
-
-/* theme reset start */
-
-.Layout {
-  min-height: calc(100vh - 78px) !important; /* reduce copyright */
-}
-
-
-/* for aside start */
-.aside {
-  position: fixed !important;
-  right: 24px;
-}
-.VPDoc {
-  padding-top: 10px !important;
-}
-.container {
-  max-width: 40rem !important;
-}
-.VPContent .container {
-  max-width: 40rem !important;
-  display: block !important;
-  position: relative;
-}
 /* content maxWidth*/
 .VPDoc.has-aside .content-container {
-  max-width: 40rem !important;
+  max-width: 60rem !important;
 }
 
+.VPContent {
+    flex-grow: 1;
+    flex-shrink: 0;
+    margin: 0 auto;
+    width: 100%;
+} */
 
-@media (min-width: 768px) {
-  .VPDoc {
-      padding-top: 10px !important;
-  }
+.VPContent.is-home {
+    width: 100%;
+    max-width: 100%;
 }
+
 @media (min-width: 960px) {
-  .VPDoc {
-      padding-top: 10px !important;
-  }
+    .VPContent {
+        padding-top: var(--vp-nav-height);
+    }
 
-  .VPDoc:not(.has-sidebar) .content {
-      max-width: inherit !important;
-  }
-  .VPDocAsideOutline .content {
-      padding-left: 14px !important;
-  }
-  .content {
-      padding: 0 !important;
-  }
-}
-/* when witdh less 1440 hide the aside 小于1440就到下一挡*/
-@media (min-width: 1280px) {
-  .VPDoc .aside {
-      display: none !important;
-  }
+    .VPContent.has-sidebar {
+        margin: 0;
+        padding-left: var(--vp-sidebar-width);
+    }
 }
 
 @media (min-width: 1440px) {
-  .VPDoc .aside {
-      display: block !important;
-  }
+    .VPContent.has-sidebar {
+        padding-right: calc((100vw - var(--vp-layout-max-width)) / 2);
+        padding-left: calc((100vw - var(--vp-layout-max-width)) / 2 + var(--vp-sidebar-width));
+    }
 }
 
-
-/*mobile*/
-@media screen and (max-width: 768px) {
-  .VPDoc {
-      padding-top: 10px !important;
-      padding-bottom: 20px !important;
-  }
-  .vp-doc h1 {
-      font-size: 1.25rem !important;
-  }
-  .posts {
-      padding: 4px;
-  }
-  .post-dot {
-      margin-right: 4px;
-  }
-  .post-container {
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-      width: 16.5em;
-  }
-}
-
-/* for aside end */
-/* theme reset end */

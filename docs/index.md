@@ -1,7 +1,6 @@
  <center>
      <h1>YIYANG ZHANG</h1>
  </center>
- <center>Email: yiyangzhang@seu.edu.cn</center>
 
 <center><b>Time passes by, footsteps never stop</b></center>
 
