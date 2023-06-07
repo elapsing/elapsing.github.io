@@ -110,7 +110,7 @@ export default defineConfig({
           { text: 'Single effective antenna', link: '/Single effective antenna' },
           { text: 'TDMA and ZFB schemes', link: '/TDMA and ZFB schemes' }
         ]
-      }
+      },
       {
         text: 'Others',
         items: [
