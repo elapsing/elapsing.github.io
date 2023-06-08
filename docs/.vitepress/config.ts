@@ -94,10 +94,12 @@ const customElements = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'en-US',
   title: "Yiyang Zhang",
   description: "A Personal Blog",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: 'public/avatar.png',
     nav: [
       { text: 'Home', link: '/' }
     ],
@@ -108,7 +110,9 @@ export default defineConfig({
         text: 'MIMO-NOMA',
         items: [
           { text: 'Single Effective Antenna', link: '/Single Effective Antenna' },
-          { text: 'TDMA and ZFB schemes', link: '/TDMA and ZFB schemes' }
+          { text: 'TDMA and ZFB schemes', link: '/TDMA and ZFB schemes' },
+          {text: 'FBL-MIMO System Model', link: '/FBL-MIMO System Model'},
+          {text: 'MU-MIMO System Model (for FBL)', link: '/MU-MIMO System Model (for FBL)'}
         ]
       },
       {
@@ -145,6 +149,5 @@ export default defineConfig({
       },
     },
   },
-
   
 })

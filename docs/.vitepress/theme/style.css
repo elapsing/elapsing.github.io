@@ -10,11 +10,11 @@
 
 /* Color Base */
 :root {
-  --vp-c-green-light: #b5e48c;
-  --vp-c-green: #76c893;
+  --vp-c-green-light: #76c893;
+  --vp-c-green: #52b69a;
   --vp-c-green-blue: #34a0a4;
-  --vp-c-blue: #1a759f;
-  --vp-c-blue-darker: #184e77;
+  --vp-c-blue: #168aad;
+  --vp-c-blue-darker: #1a759f;
   
   /* 设置字体颜色 */
   /* --vp-home-hero-name-color: transparent; */
@@ -109,6 +109,7 @@
 }
 
 
+
 /* content maxWidth*/
 .VPDoc.has-aside .content-container {
   max-width: 60rem !important;
@@ -144,3 +145,30 @@
     }
 }
 
+/* h1 color*/
+.vp-doc h1 {
+  color: var(--vp-c-brand)
+}
+
+/* h2 color*/
+.vp-doc h2 {
+  font-size: 26px;
+  color: var(--vp-c-brand)
+}
+
+/* h3 color*/
+.vp-doc h3 {
+  /* border-top: 1px solid var(--vp-c-divider); */
+  padding-top: 12px;
+  font-size: 22px;
+  color: var(--vp-c-brand)
+}
+
+
+.vp-doc h4 {
+  margin: 32px 0 0;
+  letter-spacing: -0.005em;
+  line-height: 24px;
+  font-size: 18px;
+  color: var(--vp-c-brand-light)
+}
