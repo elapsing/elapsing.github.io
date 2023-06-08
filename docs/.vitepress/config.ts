@@ -99,7 +99,7 @@ export default defineConfig({
   description: "A Personal Blog",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'zyy-ai.png',
+    logo: 'zyy-ai-circle.png',
     nav: [
       { text: 'Home', link: '/' }
     ],
