@@ -126,6 +126,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/elapsing/elapsing.github.io' },
       { icon: "twitter", link: "https://twitter.com/steven_yyz" },
+      { icon: "linkedin", link: "https://linkedin.com/in/steven-yy-zhang" },
       {
         icon: {
           svg: `<svg role="img" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="20">
