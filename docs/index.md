@@ -10,16 +10,16 @@
 ***Advised by: Prof. Jiaheng Wang***
 
   - National Mobile Communications Research Lab, Southeast University, China  
-  - Score: 92.56/100 | Normalized Score: 85.22/100 | Ranking: 2/120 (Top 2%) 
+  - Score: 92.56/100 | Normalized Score: 85.22/100 | Comprehensive Ranking: 2/120 (Top 2%) 
   - Research Interests: Non-orthogonal Multiple Access & Finite Blocklength Transmission
 
 <p style="text-align:left;"><b>B.E. in Information Engineering</b><span style="float:right;"> Sep. 2017 – Jun. 2021 </span></p>	
 
   - Southeast University, China  
-  - Score: 92.56/100 | Normalized Score: 85.22/100 | Ranking: 2/120 (Top 2%) 
+  - GPA: 3.98/4.0 | Score: 91.87/100 | Comprehensive Ranking: 9/274 (Top 3%)
 
 ## Publication and Patent
-<p style="text-align:left;"><b>Max-Min Fairness for Uplink NOMA Systems with Finite Blocklength (Submitted)</b><span style="float:right;">2023</span></p>	
+<p style="text-align:left;"><b>Max-Min Fairness for Uplink NOMA Systems with Finite Blocklength (Under Review)</b><span style="float:right;">2023</span></p>	
 
 **Yiyang Zhang**, Tianying Zhong, Yuan Wang, and Jiaheng Wang.
 
@@ -42,7 +42,17 @@ Southeast University | Advised by Prof. Jiaheng Wang
 Southeast University | Advised by Prof. Jiaheng Wang
 
 - Designed a resource scheduling and user grouping scheme in uplink NOMA for the power control and phase adjustment method considering the modulation order of transmission
+
 - Achieved the performance goal: increasing the number of connections by 20% when ensuring throughput QoS requirements of the eMBB uplink users (validated by MATLAB)
+
+<p style="text-align:left;"><b>Downlink Precoding Design with QoS Guarantee in ToB Scenarios</b><span style="float:right;">Sep. 2021 – Oct. 2022</span></p>
+
+ Southeast University | Advised by Prof. Jiaheng Wang
+
+- Proposed precoding schemes for downlink PDSCH in large indoor industrial plant scenarios in order to
+    effectively coordinate both the intra-cell and inter-cell interference
+- Achieved performance gains compared to common precoding schemes, e.g., EZF, in terms of transmit power,
+    sum rate, weighted SINR, and other performance indicators (validated by MATLAB)
 
 <p style="text-align:left;"><b>Federated Learning-Based Heterogeneous Network Interference Coordination</b><span style="float:right;">Oct. 2020 – Aug. 2021</span></p>	
 
